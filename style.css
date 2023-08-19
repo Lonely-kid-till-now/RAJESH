@@ -1,0 +1,169 @@
+/* Reset some default styles to ensure consistency */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+   
+    
+ 
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: black;
+    
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: orange;
+    font-size: 1.2rem;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+section {
+    padding: 2rem 0;
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+.li{
+    text-decoration: none;
+    }
+    #home1 {
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNSdz_XmTxIAwPagPAd4ZEmQK1lZ5UsjMr9g&usqp=CAU');
+        background-attachment: fixed;
+        background-size: cover;
+        color: #8a97153b;
+        text-align: center;
+        padding: 6rem 0;
+        height: 190px;
+    }
+    
+    #home1 h2, #home1 p {
+        color: #ffffff;
+        font-size: 30px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+    #about {
+        background-color: #EFE8C4;
+    }
+    #p1{
+
+        margin-left: 330px;
+    margin-top: -256px;
+    }
+
+    #v{
+        text-align: center;
+        background-color: rgb(62, 82, 38);
+        width:400px;
+    
+        height: 250px;
+        border-radius: 25px;
+        padding: 15px    ;
+        color: antiquewhite;
+        font-size: 19px;
+    
+    
+    }
+    .vmq{
+        text-align: center;
+        margin-left: 110px;
+        margin-top: 20px;
+    }
+
+    .footertxt{
+
+        margin-left: 20px;
+    
+    }
+    #abov{
+        margin-top: -24px;
+        color: black;
+    }
+    #abov2{
+        margin-top: -39px;
+    
+    }
+    .footer{
+        background-color: yellowgreen;
+        margin-top: 30px;
+        height: 280px;
+    }   
+
+    #logol{
+
+        height: 100px;
+        width: 100px;
+    
+    }
+
+    #labs, #research, #events {
+        background-color: #F0F0F0;
+        padding: 2rem;
+    }
+    
+    #labs h2, #research h2, #events h2 {
+        color: #00458B;
+    }
+    
+    #labs ul, #research ul, #events ul {
+        list-style: disc;
+        margin-left: 1.5rem;
+    }
+    
+    #labs li, #research li, #events li {
+        margin-bottom: 0.5rem;
+    }
+    #research {
+        background-color: #B4DAF2;
+    }
+    #labs:hover{
+        background-color: #49cf7c;
+        font-size: 18px;
+        color: white;
+    
+    }
+    
